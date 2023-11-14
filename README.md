@@ -1,2 +1,3 @@
 # akash-demoo
-this is my first repository
+this is my first repositoryauthor-akash nayak
+
